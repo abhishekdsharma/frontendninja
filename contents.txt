@@ -1,4 +1,70 @@
 
+Learning Plan
+---------------
+
+Week 01
+21-Jul-14 - Task 01
+	- Github accounts, 
+	- git installation, 
+	- mining frontend keywords
+22-Jul-14 - Task 02
+	- Watching CSS basics presentation, 
+	- installing node.js, 
+	- CSS class selector exercise
+23-Jul-14 - Task 03
+	- Using bootstrap, creating grid using bootstrap, 
+	- adding upstream for git repo, fetching upstream changes
+	- npm init explained and exercise
+	- jasmine spec executed
+24-Jul-14
+	- No session
+25-Jul-14
+	- Gulp, Coffee, LESS, Uglify, livereload, workflow
+
+Week 02
+28-Jul-14
+29-Jul-14
+30-Jul-14
+31-Jul-14
+1-Aug-14
+
+Week 03
+4-Aug-14
+5-Aug-14
+6-Aug-14
+7-Aug-14
+8-Aug-14
+
+
+Gulp for the build and workflow process
+LESS and CSS together 
+Bootstrap as default knowledge
+JavaScript with jQuery as default DOM manipulator
+JSHint from day one of JavaScript
+CoffeeScript with JavaScript together
+
+- gulp is better than grunt
+- jshint is better than jslint
+- coffee is better than javascript
+- less is better than css
+
+Browserify awesome article
+http://viget.com/extend/gulp-browserify-starter-faq
+http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/
+http://blakeembrey.com/articles/introduction-to-browserify/
+
+Tooling presentation
+https://speakerdeck.com/bevacqua/front-end-ops-tooling
+
+Gulp presentation
+https://speakerdeck.com/jayharris/dethroning-grunt-simple-and-effective-builds-with-gulp-dot-js
+
+LESS presentation
+https://speakerdeck.com/bermonpainter/css-pre-processors-stylus-less-and-sass
+
+Introduction to CoffeeScript
+https://speakerdeck.com/zdennis/intro-to-coffeescript
+
 Bootstrap 3
 http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
@@ -54,4 +120,39 @@ http://zombie.labnotes.org/
 Trick of running maven with jasmine
 http://ivandemarino.me/2011/07/09/Maven-PhantomJS-and-Jasmine-to-write-your-JS-Unit-Testing/
 
-Test Change
+HTML5 Facades by Kyle Simpson
+https://github.com/getify/h5ive 
+
+Installting node http-server globally
+$ npm install -g http-server
+Starting the server
+$ http-server
+
+JavaScript Module Pattern
+http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+
+JavaScript Closures explained
+http://skilldrick.co.uk/2011/04/closures-explained-with-javascript/
+
+JavaScript IIFE explained
+http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+
+CoffeeScript Fat arrow vs thin arrow
+http://giangnguyen.net/2014/02/16/coffeescript-fat-arrow-vs-thin-arrow/
+http://squarism.com/2012/08/10/coffeescript-fat-arrow/
+http://webapplog.com/understanding-fat-arrows-in-coffeescript/
+http://blog.paracode.com/2011/08/28/coffeescript-fat-arrows
+
+Tools:
+
+JSFiddle - must have tool
+http://jsfiddle.net/#
+
+Github
+https://github.com
+
+Gist
+https://gist.github.com
+
+Developer Tools
+Mozilla Firefox, Google Chrome, Internet Explorer

@@ -1,0 +1,67 @@
+28 July 2014 - Task 05
+======================
+
+Summary:
+
+Week 01
+21-Jul-14 - Task 01
+	- Github accounts, 
+	- git installation, 
+	- mining frontend keywords
+22-Jul-14 - Task 02
+	- Watching CSS basics presentation, 
+	- installing node.js, 
+	- CSS class selector exercise
+23-Jul-14 - Task 03
+	- Using bootstrap, creating grid using bootstrap, 
+	- adding upstream for git repo, fetching upstream changes
+	- npm init explained and exercise
+	- jasmine spec executed
+24-Jul-14
+	- No session
+25-Jul-14
+	- Gulp, Coffee, LESS, Uglify, livereload, workflow
+
+
+Syllabus we will touch:
+- Node.js, npm, Gulp for the build and workflow process
+- CSS, LESS, Twitter Bootstrap
+- JavaScript, jQuery with CoffeeScript, Jasmine and JSHint
+- Backbone.js, Angular.js, D3.js
+
+Task 05:
+- Search on interview questions for CSS and JavaScript, jQuery
+- Search for difficult, complicated, tough keywords
+- Collect minimum 50 questions each, do not bother for the answer
+- Create Excel sheet with three columns
++-------------+------------------------------+-------------+
+|   Roll.No.  | Question                     | Topic       |
++-------------+------------------------------+-------------+
+|             |                              |             |
+|             |                              |             |
+|             |                              |             |
++-------------+------------------------------+-------------+
+- Roll.No is your number
+- Question is the searchhed question
+- Topic can be CSS, JavaScript, jQuery, or any keyword from our set of keywords
+- If you find a question related to any keyword which we have in our syllabus you can include that question.
+- We can have duplicate questions from multiple people that is ok.
+
+
+Suggestions, Questions, Difficulties
+
+- Abhishek - wwill the task be complete end to end projects? Yes
+- Khaled - Can knockout.js be included in this session, No, let us do that from next session 2
+- 
+
+
+
+
+
+
+
+
+
+
+
+
