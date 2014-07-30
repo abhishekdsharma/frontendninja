@@ -2,4 +2,11 @@
 ======================
 
 1) Find answer to assigned CSS questions, the list of questions is sent in mail
+- Create a folder with your number in task06 folder
+
+
+task06
++------01
+       + html, css
++------45	   
 2) Practice using JSFiddle http://jsfiddle.net
